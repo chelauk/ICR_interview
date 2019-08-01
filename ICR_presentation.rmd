@@ -87,4 +87,8 @@ class: left,left
 # Example 2
 <a href="azzoni.html">Single Cell RNA-seq Report</a>
 
+---
+class: left,left
+# Example 3
+<a href="shiny example">https://chelauk.shinyapps.io/norm_gene_counts/</a>
 
