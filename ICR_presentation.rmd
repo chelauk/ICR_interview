@@ -66,5 +66,12 @@ class: left, left
 - ATAC-seq
 - ChIP-seq
 
+---
+class: left, left
+background-image: url('ICR_presentation-figure/bulk_rna.png')
+background-position: right
+background-size: contain
+# RNA-seq
+
 
 
